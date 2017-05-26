@@ -15,14 +15,7 @@ pip install jupyter
 These are various things I needed to install to run the example notebooks properly.
 
 ```bash
-pip install pandas
-pip install sklearn
-pip install matplotlib
-pip install sklearn
-pip install scipy
-pip install -U scikit-learn
-pip install h5py
-pip install pillow
+pip install -U pandas matplotlib scikit-learn h5py pillow
 ```
 
 I've installed using virtualenv following the instructions [here](https://www.tensorflow.org/install/install_mac).  
